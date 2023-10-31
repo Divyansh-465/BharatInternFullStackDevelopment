@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&family=Josefin+Sans&display=swap');
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f09b9b;
+  }
+  
+  header {
+    background-color: #1e0286;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  
+  main {
+    padding: 20px;
+  }
+
+  label {
+    color: black;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.2rem;
+  }
+  
+  input,
+  textarea {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 10px;
+  }
+
+  #imageInput {
+    width: 180px;
+  }
+  
+  button {
+    background-color: #13a411;
+    color: #fff;
+    border: 2px solid #035502;
+    border-radius: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-left: 40%;
+  }
+  
+  #postsContainer {
+    margin-top: 20px;
+  }
+  
+  .post {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 5px solid #542203;
+    border-radius: 10px;
+  }
+  
+  .post h2 {
+    margin-top: 0;
+  }
+  
+  .post img {
+    max-width: 100%;
+    margin-bottom: 10px;
+  }
+  
