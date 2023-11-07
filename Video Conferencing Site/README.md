@@ -23,13 +23,6 @@ To use this web app, follow these steps:
 - JavaScript
 - JitsiMeetExternalAPI
 
-## Screenshots
-
-- ![Image1](https://pralinkhaira.github.io/Storage-Misc/vc1.png)
-- ![Image1](https://pralinkhaira.github.io/Storage-Misc/vc2.png)
-- ![Image1](https://pralinkhaira.github.io/Storage-Misc/vc3.png)
-
-
 ## Installation
 
 You don't need to install anything to use this web app. Simply open the web page in your browser and start a new meeting.
